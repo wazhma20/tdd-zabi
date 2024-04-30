@@ -1,0 +1,23 @@
+2024-04-18 13:43:58.989 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml"
+2024-04-18 13:43:59.077 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-18 13:43:59.103 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-04-18 13:43:59.208 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.url
+2024-04-18 13:43:59.208 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-18 13:43:59.208 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.browser
+2024-04-18 13:43:59.208 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-18 13:43:59.208 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.isHeadless
+2024-04-18 13:43:59.209 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-18 13:44:10.883 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-18 13:44:10.917 [main] INFO  finalProject.tdd.utility.SeleniumUtilities - Checking element is displayed [[ChromeDriver: chrome-headless-shell on mac (19d32f4cb0efd2f9603e61d2f88f8ab4)] -> xpath: //a[@class='chakra-button css-1jp0m7c']]
+2024-04-18 13:44:10.952 [main] DEBUG finalProject.tdd.base.BaseSetup - closing browser
+2024-04-18 13:44:11.029 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.url
+2024-04-18 13:44:11.029 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-18 13:44:11.029 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.browser
+2024-04-18 13:44:11.030 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-18 13:44:11.030 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.isHeadless
+2024-04-18 13:44:11.030 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-18 13:44:12.521 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-18 13:44:12.533 [main] INFO  finalProject.tdd.utility.SeleniumUtilities - Getting Element Text[[ChromeDriver: chrome-headless-shell on mac (3583febd8b076a28afb3bc07c09ec3c6)] -> xpath: //h2[@class='chakra-heading css-1at26de']]
+2024-04-18 13:44:12.615 [main] DEBUG finalProject.tdd.base.BaseSetup - closing browser

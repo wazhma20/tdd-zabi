@@ -1,0 +1,144 @@
+2024-04-29 17:26:18.792 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml"
+2024-04-29 17:26:18.849 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:26:18.874 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-04-29 17:26:18.959 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.url
+2024-04-29 17:26:18.959 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 17:26:18.959 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.browser
+2024-04-29 17:26:18.959 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 17:26:18.959 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.isHeadless
+2024-04-29 17:26:18.959 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 17:26:30.171 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:26:30.183 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:26:30.184 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:26:40.489 [main] INFO  finalProject.tdd.utility.SeleniumUtilities - Click on element [!!!jdk.proxy2.$Proxy27@3cbcd8f3=>org.openqa.selenium.NoSuchWindowException:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.91)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [acceb1588dc4a4132b799e1c13f9a136, findElement {value=*[name='createPrimaryAccountBtn'], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.91, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: /var/folders/vn/knct5jxj6f7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59983}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59983/devtoo..., se:cdpVersion: 124.0.6367.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: acceb1588dc4a4132b799e1c13f9a136!!!]
+2024-04-29 17:28:48.730 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml"
+2024-04-29 17:28:48.804 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:28:48.839 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-04-29 17:28:48.932 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.url
+2024-04-29 17:28:48.933 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 17:28:48.933 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.browser
+2024-04-29 17:28:48.933 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 17:28:48.933 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.isHeadless
+2024-04-29 17:28:48.933 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 17:28:52.452 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:28:52.476 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:28:52.477 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:29:05.198 [main] INFO  finalProject.tdd.utility.SeleniumUtilities - Click on element [!!!jdk.proxy2.$Proxy27@e344ad3=>org.openqa.selenium.NoSuchWindowException:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.91)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0e6b3276178a3edfe803475ba41f3b70, findElement {value=*[name='createPrimaryAccountBtn'], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.91, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: /var/folders/vn/knct5jxj6f7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60040}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60040/devtoo..., se:cdpVersion: 124.0.6367.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0e6b3276178a3edfe803475ba41f3b70!!!]
+2024-04-29 17:30:53.904 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml"
+2024-04-29 17:30:53.961 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:30:53.985 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-04-29 17:30:54.068 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.url
+2024-04-29 17:30:54.068 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 17:30:54.068 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.browser
+2024-04-29 17:30:54.068 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 17:30:54.068 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.isHeadless
+2024-04-29 17:30:54.068 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 17:30:57.304 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:30:57.316 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:30:57.318 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:31:09.581 [main] INFO  finalProject.tdd.utility.SeleniumUtilities - Click on element [!!!jdk.proxy2.$Proxy27@35ff8fc9=>org.openqa.selenium.NoSuchWindowException:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.91)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [46b79a6e1d90608b580de4dc0ad8b32c, findElement {using=css selector, value=*[name='createPrimaryAccountBtn']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.91, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: /var/folders/vn/knct5jxj6f7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60102}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60102/devtoo..., se:cdpVersion: 124.0.6367.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 46b79a6e1d90608b580de4dc0ad8b32c!!!]
+2024-04-29 17:32:57.991 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml"
+2024-04-29 17:32:58.064 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:32:58.105 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-04-29 17:32:58.200 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.url
+2024-04-29 17:32:58.201 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 17:32:58.201 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.browser
+2024-04-29 17:32:58.201 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 17:32:58.201 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.isHeadless
+2024-04-29 17:32:58.201 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 17:33:02.148 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:33:02.161 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:33:02.162 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 17:33:42.261 [main] INFO  finalProject.tdd.utility.SeleniumUtilities - Click on element Proxy element for: DefaultElementLocator 'by id or name "createPrimaryAccountBtn"'
+2024-04-29 18:35:01.110 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml"
+2024-04-29 18:35:01.170 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:35:01.194 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-04-29 18:35:01.274 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.url
+2024-04-29 18:35:01.275 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 18:35:01.275 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.browser
+2024-04-29 18:35:01.275 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 18:35:01.275 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.isHeadless
+2024-04-29 18:35:01.275 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 18:35:05.264 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:35:05.288 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:35:05.293 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:35:45.360 [main] INFO  finalProject.tdd.utility.SeleniumUtilities - Click on element Proxy element for: DefaultElementLocator 'by id or name "createPrimaryAccountBtn"'
+2024-04-29 18:37:08.612 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml"
+2024-04-29 18:37:08.684 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:37:08.721 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-04-29 18:37:08.812 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.url
+2024-04-29 18:37:08.813 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 18:37:08.813 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.browser
+2024-04-29 18:37:08.813 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 18:37:08.813 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.isHeadless
+2024-04-29 18:37:08.813 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 18:37:13.105 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:37:13.130 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:37:13.131 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:37:53.199 [main] INFO  finalProject.tdd.utility.SeleniumUtilities - Click on element Proxy element for: DefaultElementLocator 'by id or name "createPrimaryAccountBtn"'
+2024-04-29 18:39:46.870 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml"
+2024-04-29 18:39:46.927 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:39:46.951 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-04-29 18:39:47.031 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.url
+2024-04-29 18:39:47.031 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 18:39:47.032 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.browser
+2024-04-29 18:39:47.032 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 18:39:47.032 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.isHeadless
+2024-04-29 18:39:47.032 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 18:39:50.338 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:39:50.356 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:39:50.358 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:40:30.519 [main] INFO  finalProject.tdd.utility.SeleniumUtilities - Click on element Proxy element for: DefaultElementLocator 'by id or name "createPrimaryAccountBtn"'
+2024-04-29 18:41:22.145 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml"
+2024-04-29 18:41:22.214 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:41:22.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/wazhmaludin/Library/Caches/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml
+
+2024-04-29 18:41:22.335 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.url
+2024-04-29 18:41:22.335 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 18:41:22.335 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.browser
+2024-04-29 18:41:22.336 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 18:41:22.336 [main] DEBUG finalProject.tdd.base.BaseSetup - Retrieving property for keyui.isHeadless
+2024-04-29 18:41:22.336 [main] DEBUG finalProject.tdd.base.BaseSetup - property Value
+2024-04-29 18:41:25.776 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:41:25.788 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:41:25.789 [main] INFO  finalProject.tdd.base.BaseSetup - Configuration File path/Users/wazhmaludin/Desktop/tdd-final-project/src/test/resources/config/application-config.properties
+2024-04-29 18:42:05.909 [main] INFO  finalProject.tdd.utility.SeleniumUtilities - Click on element Proxy element for: DefaultElementLocator 'by id or name "createPrimaryAccountBtn"'
